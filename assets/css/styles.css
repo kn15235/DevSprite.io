@@ -394,10 +394,12 @@ img {
   --size: 34px;
 }
 
-.brand-mark svg {
+.brand-mark img {
   display: block;
   width: 100%;
   height: 100%;
+  object-fit: contain;
+  border-radius: 22%;
 }
 
 .reveal {
