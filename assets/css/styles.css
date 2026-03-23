@@ -604,6 +604,18 @@ img {
   background: radial-gradient(circle, rgba(84, 203, 136, 0.32), transparent 68%);
 }
 
+.site-footer {
+  padding: 28px 0 12px;
+}
+
+.site-footer__note {
+  margin: 0;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
 .brand-mark {
   --size: 72px;
   position: relative;
